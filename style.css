@@ -1,0 +1,22 @@
+body {
+    background-color: #f5f5dd;
+}
+
+div {
+    margin: 10px;
+    width: 150px;
+    height: 150px;
+    background-color: rgba(0, 0, 0, 1);
+}
+
+.second-square {
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
+.third-square {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.fourth-square {
+    background-color: rgba(0, 0, 0, 0.25);
+}
